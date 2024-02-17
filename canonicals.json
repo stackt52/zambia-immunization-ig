@@ -1,0 +1,23 @@
+[
+  {
+    "id" : "openhie.fhir.zambia-training",
+    "type" : "ImplementationGuide",
+    "url" : "http://openhie.org/fhir/zambia-training/ImplementationGuide/openhie.fhir.zambia-training",
+    "version" : "1.0.0",
+    "name" : "ZambiaTraning"
+  },
+  {
+    "id" : "immunisation-patient",
+    "type" : "StructureDefinition",
+    "url" : "http://openhie.org/fhir/zambia-training/StructureDefinition/immunisation-patient",
+    "version" : "1.0.0",
+    "name" : "ImmunisationPatient"
+  },
+  {
+    "id" : "patient-born-in-zambia",
+    "type" : "StructureDefinition",
+    "url" : "http://openhie.org/fhir/zambia-training/StructureDefinition/patient-born-in-zambia",
+    "version" : "1.0.0",
+    "name" : "PatientBornInZambia"
+  }
+]

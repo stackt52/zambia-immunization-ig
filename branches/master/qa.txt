@@ -1,0 +1,23 @@
+ZambiaTraning : Validation Results
+=========================================
+
+err = 0, warn = 3, info = 3
+IG Publisher Version: 1.5.16
+Generated Sat Feb 17 09:55:31 UTC 2024. FHIR version 5.0.0 for openhie.fhir.zambia-training#1.0.0 (canonical = http://openhie.org/fhir/zambia-training)
+ Build Errors : 0 / 3 / 0
+ /github/workspace/fsh-generated/resources/ImplementationGuide-openhie.fhir.zambia-training : 0 / 0 / 2
+ /github/workspace/fsh-generated/resources/Patient-ImmunisationPatientExample : 0 / 0 / 1
+ /github/workspace/fsh-generated/resources/StructureDefinition-immunisation-patient : 0 / 0 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-patient-born-in-zambia : 0 / 0 / 2
+</table>
+== n/a ==
+WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated/resources/ImplementationGuide-openhie.fhir.zambia-training.json ==
+INFORMATION: ImplementationGuide/openhie.fhir.zambia-training: ImplementationGuide.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+== fsh-generated/resources/Patient-ImmunisationPatientExample.json ==
+== fsh-generated/resources/StructureDefinition-immunisation-patient.json ==
+INFORMATION: StructureDefinition/immunisation-patient: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+== fsh-generated/resources/StructureDefinition-patient-born-in-zambia.json ==
+INFORMATION: StructureDefinition/patient-born-in-zambia: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
