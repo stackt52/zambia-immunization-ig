@@ -27,7 +27,6 @@ Description: "Immunisation patient"
 * managingOrganization 0..1
 * birthDate 0..1
 * birthDate.extension contains patient-birthTime named birthTime 1..1
-
 * extension contains PatientBornInZambia named bornInZambia 0..1
 
 // Profile: ImmunisationObservation
